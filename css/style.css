@@ -1,0 +1,48 @@
+*{
+padding: 0%;
+margin: 0%;
+font-family: 'Glory', sans-serif;
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+}
+body.dark{
+    background-color: rgb(0, 0, 0);
+}
+
+.card{
+background-color: #292626;
+color: white;
+}
+
+.none{
+    display: none;
+}
+
+.block{
+    display: block;
+}
+
+.check {
+
+text-decoration: line-through;
+background-color: rgba(255, 0, 0, 0.288);
+}
+
+.container h2 {
+     color:#27abb4 ;
+}
+
+.container button {
+    background-color: #334756;
+    color: #ffffff;
+}
+
+.navbar {
+    background-color: #ffffff00;
+}
+.navbar-brand button {
+
+    background-color: black;
+}
